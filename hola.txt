@@ -1,3 +1,4 @@
 Integrantes:
     - CI: 5224801, Nombre: Maria Jose, Apellido: Duarte Kowalewski
     - CI: 4796108, Nombre: Amanda Guillermina, Apellido: Caceres Duarte
+    - CI: 5985474, Nombre: Kevin Mathias, Apellido: Galeano Saldivar
